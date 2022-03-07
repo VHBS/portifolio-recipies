@@ -1,0 +1,20 @@
+* {
+  border: 0;
+  color: #fffffe;
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+
+.done-recipe-img {
+  width: 100vw;
+}
+
+.recomendation-container {
+  display: flex;
+  overflow-x: scroll;
+}
+
+.recomendation-img {
+  width: 100%;
+}
