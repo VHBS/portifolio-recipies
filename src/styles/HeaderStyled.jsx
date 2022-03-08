@@ -28,7 +28,7 @@ export const ProfileButtonStyled = styled.button`
   box-shadow: 0.1em 0.1em 1.5px rgba(0, 0, 0, 0.5);
   font-weight: 600;
   padding: 0.75em;
-  position: absolute;
+  position: fixed;
   right: 1em;
   top: 1em;
   z-index: 1;
