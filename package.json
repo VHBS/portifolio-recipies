@@ -52,7 +52,7 @@
   },
   "devDependencies": {
     "clipboardy": "^2.1.0",
-    "cypress": "^9.3.1",
+    "cypress": "^14.5.3",
     "cypress-multi-reporters": "^1.4.0",
     "eslint": "7.11.0",
     "eslint-config-trybe-frontend": "1.2.2",
